@@ -55,13 +55,13 @@
 | 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     | [Link](https://information-visualization-assignment-1-b6aq.vercel.app/)     |         |
 | 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |      |         |
 | 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     | [Link](https://github.com/Meenakshi-Gayathri/Information-Vizualisation-RA2111029010009)     |         |
-| 45   | GAYATHRI R (RA2111029010033)            | 2     |[Link](https://fastfoodinfo.my.canva.site/)    |         |
+| 45   | GAYATHRI R (RA2111029010033)            | 2     |[Link](https://github.com/gr2100/Fast-Food-chain-analysis)    |         |
 | 46   | DHRUB DUBEY (RA2111029010045)            | 2     |      |         |
 | 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |      |         |
 | 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     |      |         |
 | 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |[Link](https://github.com/Bavishyath/Deforestation-due-to-Development-in-South-India.git)     |         |
 | 50   | GAVISH KUMAR (A2111031010048)            | 2     |               |      |         |
-| 51   | YASHI JAIN (RA2111031010058)            | 2     |               |      |         |
+| 51   | YASHI JAIN (RA2111031010058)            | 2     | https://yashijain.journoportfolio.com/#/              |      |         |
 | 52   | MANASWITA VERMA (RA2111031010068)            | 2     |[Link](https://sites.google.com/srmist.edu.in/18cse301jsocialnetworkanalysis/home)              |      |         |
 | 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |               |      |         |
 | 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
